@@ -11,4 +11,4 @@
 
 
 ## My Project Labs
-- [2 - Operating Systems & Linux Basics](notes/2-operating-systems-and-linux-basics.md)
+- [02 -Module02 - Operating Systems & Linux Basics](/module_2-linux/README.md)
