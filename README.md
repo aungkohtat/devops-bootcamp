@@ -1,6 +1,6 @@
 # devops-bootcamp
 
-# Techworld with Nana devops bootcamp
+# Techworld with Nana DevOps bootcamp
 
 ![intro.png](assets%2Fintro.png)
 
