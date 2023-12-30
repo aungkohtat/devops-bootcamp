@@ -1,6 +1,6 @@
 # devops-bootcamp
 
-# Techworld with Nana DevOps bootcamp
+# Techworld with Nana devops bootcamp
 
 ![intro.png](assets%2Fintro.png)
 
@@ -11,4 +11,5 @@
 
 
 ## My Project Labs
-- [02 -Module02 - Operating Systems & Linux Basics](/module_2-linux/README.md)
+- [02 - Module_02 Operating Systems & Linux Basics](/module_2-linux/README.md)
+- [10 - Module_10 Container Orchestration with Kubernetes](/module_10-kubernetes/README.md)
