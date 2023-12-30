@@ -133,3 +133,16 @@ You can use `kubens` to change the active namespace, and not use -n with every k
 
 
 ---
+### Minikube Install My Mac
+-[Minikube Documentation Page](https://minikube.sigs.k8s.io/docs/start/)
+
+1. If the Homebrew Package Manager is installed:
+`brew install minikube
+`
+2. Start your cluster
+`minikube start --driver docker`
+
+3. Interact with your cluster `kubectl get po -A`
+
+4. Interact with your deployment `kubectl get deployment`
+`
