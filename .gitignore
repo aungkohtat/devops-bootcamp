@@ -1,1 +1,41 @@
-/.idea
+# Ignore Terraform's temporary files
+*.tfstate
+*.tfstate.backup
+*.tfplan
+
+# Ignore .terraform directory
+.terraform/
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore .tfvars files that are intended to be shared across repositories
+*.tfvars
+
+# Ignore files with sensitive information
+*.secret
+*.auto.tfvars
+*.retry
+
+# Ignore local Kubernetes configuration files
+.kube/
+
+# Ignore kubeconfig files
+kubeconfig
+
+# Ignore generated YAML files
+*.yaml
+*.yml
+
+# Ignore helm chart directories
+charts/
+
+# Ignore kustomize build directories
+kustomize/
+
+# Ignore KubeDB directories (customize based on your use case)
+kubedb/
