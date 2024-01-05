@@ -1,4 +1,4 @@
-# devops-bootcamp
+# DevOps-Bootcamp
 
 # Techworld with Nana devops bootcamp
 
@@ -10,7 +10,8 @@
 ![schedule-2.png](assets%2Fschedule-2.png)
 
 
-## My Project Labs
-- [Module_02 Operating Systems & Linux Basics](/module_2-linux/README.md)
-- [Module_10 Container Orchestration with Kubernetes](/module_10-kubernetes/README.md)
-- [Module_12 Infrastructure as Code with Terraform](/module_12-terraform/README.md)
+## Weekly Journals 📔
+- 📅 [Week 2](/module_2-linux/README.md)
+- 📅 [Week 3](/module_3-Version-Control-With-Git/README.md)
+- 📅 [Week 10](/module_10-kubernetes/README.md)
+- 📅 [Week 12](/module_12-terraform/README.md)
