@@ -11,7 +11,7 @@
 
 
 ## Weekly Journals 📔
-- 📅 [Week 2](/module_2-linux/README.md)
-- 📅 [Week 3](/module_3-Version-Control-With-Git/README.md)
-- 📅 [Week 10](/module_10-kubernetes/README.md)
-- 📅 [Week 12](/module_12-terraform/README.md)
+- 📅 [module_2-linux](/module_2-linux/README.md)
+- 📅 [module_3-Version-Control-With-Git](/module_3-Version-Control-With-Git/README.md)
+- 📅 [module_10-kubernetes](/module_10-kubernetes/README.md)
+- 📅 [module_12-terraform](/module_12-terraform/README.md)
